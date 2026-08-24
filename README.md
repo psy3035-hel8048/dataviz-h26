@@ -2,7 +2,9 @@
 Course materials for data visualisation course, høst 2026. This course combines PSY-3035 and HEL-8048.
 
 ## Getting started
-We will use a number of tools, with Python programming and plotting functions being central. You should have Anaconda installed and your favourite IDE (you should choose Visual Studio Code as default).
+We will use a number of tools, with Python programming and plotting functions being central. You should have Anaconda installed and your favourite IDE (if you don't have a favourite, then choose Visual Studio Code).
+
+Class communication and materials will be shared via Github, rather than Canvas, so students should make a Github account asap (if they don't already have one). We will also have a dedicated workshop based on learning to use Git and Github.
 
 ## Getting help via Discussions
 
